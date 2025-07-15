@@ -17,6 +17,8 @@ Analizar los datos de clientes de Telecom X para identificar variables clave aso
 
 ## 🗂️ Estructura del proyecto
 
+
+```
 TelecomX_LATAM/
 ├── data/      # Data del proyecto(.json) y diccionario(.md)
 │   ├── telecom_data.json
@@ -27,11 +29,12 @@ TelecomX_LATAM/
 ├── outputs/        # Gráficos y archivos generados
 └── README.md       # Descripción del proyecto
 └── requirements.txt    # Librerías necesarias
+```
 
 ## 📌 Progreso
 
 - [x] Creación del repositorio y estructura base
-- [x] Carga inicial de datos desde JSON
+- [ ] Carga inicial de datos desde JSON
 - [ ] Exploración y limpieza de datos
 - [ ] Análisis exploratorio (EDA)
 - [ ] Visualizaciones y hallazgos clave
