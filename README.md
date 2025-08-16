@@ -20,14 +20,14 @@ Analizar los datos de clientes de Telecom X para identificar variables clave aso
 
 ```
 TelecomX_LATAM/
-├── data/      # Data del proyecto(.json) y diccionario(.md)
+├── data/               # Data del proyecto(.json) y diccionario(.md)
 │   ├── telecom_data.json
 │   └── TelecomX_diccionario.md
-├── notebooks/      # Análisis exploratorio en Jupyter
+├── notebooks/          # Análisis exploratorio
 │   └── TelecomX_LATAM.ipynb
-├── src/            # Scripts organizados por funcionalidad (ETL, EDA, etc.)
-├── outputs/        # Gráficos y archivos generados
-└── README.md       # Descripción del proyecto
+├── src/                # Scripts organizados por funcionalidad (ETL, EDA, etc.)
+├── outputs/            # Gráficos y archivos generados
+└── README.md           # Descripción del proyecto
 └── requirements.txt    # Librerías necesarias
 ```
 
