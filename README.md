@@ -39,7 +39,7 @@ TelecomX_LATAM/
 
 ### 5. Análisis Exploratorio (EDA)
 - **Churn global:** (ver celda de métricas).
-![alt text](outputs/dist_churn.png)
+![alt text](/notebooks/outputs/dist_churn.png)
 
 - **Mayor churn** en clientes con contrato **Month-to-month** frente a contratos **One year**/**Two year**.
 ![alt text](6e45064d-e372-400f-9b77-9e832fe3ac14.png)
