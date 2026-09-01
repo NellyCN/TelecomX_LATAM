@@ -45,12 +45,14 @@ TelecomX_LATAM/
 ![Churn_Mayor](notebooks/6e45064d-e372-400f-9b77-9e832fe3ac14.png)
 
 - **Servicios de seguridad/soporte** (`OnlineSecurity`, `TechSupport`) se asocian con **menor churn**.
+![Churn_rate_by_internet_OnlineSecurity](notebooks/outputs/churn_rate_by_internet_OnlineSecurity.png)
+![Churn_rate_by_internet_internet_TechSupport](notebooks/outputs/churn_rate_by_internet_TechSupport.png)
 
 - **Tenure** bajo (clientes recientes) presenta más churn; se estabiliza con mayor antigüedad.
 ![Tenure](notebooks/outputs/dist_tenure.png)
 
 - **PaperlessBilling** puede mostrar diferencias; revisar junto a método de pago.
-
+![Churn_Mayor](notebooks/churn_rate_by_account_PaperlessBilling.png)
 
 ### 6. Conclusiones e Insights
 - El **tipo de contrato** es un driver clave: contratos mensuales concentran la mayor tasa de churn.
