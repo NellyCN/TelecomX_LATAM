@@ -52,7 +52,7 @@ TelecomX_LATAM/
 ![Tenure](notebooks/outputs/dist_tenure.png)
 
 - **PaperlessBilling** puede mostrar diferencias; revisar junto a método de pago.
-![Churn_Mayor](notebooks/churn_rate_by_account_PaperlessBilling.png)
+![Churn_rate_by_account_PaperlessBilling](notebooks/outputs/churn_rate_by_account_PaperlessBilling.png)
 
 ### 6. Conclusiones e Insights
 - El **tipo de contrato** es un driver clave: contratos mensuales concentran la mayor tasa de churn.
