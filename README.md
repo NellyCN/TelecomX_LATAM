@@ -39,15 +39,15 @@ TelecomX_LATAM/
 
 ### 5. Análisis Exploratorio (EDA)
 - **Churn global:** (ver celda de métricas).
-![alt text](/notebooks/outputs/dist_churn.png)
+![Churn_global](notebooks/outputs/dist_churn.png)
 
 - **Mayor churn** en clientes con contrato **Month-to-month** frente a contratos **One year**/**Two year**.
-![alt text](6e45064d-e372-400f-9b77-9e832fe3ac14.png)
+![Churn_Mayor](notebooks/6e45064d-e372-400f-9b77-9e832fe3ac14.png)
 
 - **Servicios de seguridad/soporte** (`OnlineSecurity`, `TechSupport`) se asocian con **menor churn**.
 
 - **Tenure** bajo (clientes recientes) presenta más churn; se estabiliza con mayor antigüedad.
-![alt text](outputs/dist_tenure.png)
+![Tenure](notebooks/outputs/dist_tenure.png)
 
 - **PaperlessBilling** puede mostrar diferencias; revisar junto a método de pago.
 
